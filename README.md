@@ -36,7 +36,7 @@ Memperluas pemandangan galaksi di sekitar astronot untuk menciptakan komposisi f
 
 * **Clone repositori** ini ke direktori lokal Anda:
     ```bash
-    git clone [https://github.com/](https://github.com/)[USERNAME_KAMU]/lunar-gen-ai.git
+    git clone [https://github.com/imammularf/Belajar-Fundamental-Generative-AI.git]    (https://github.com/imammularf/Belajar-Fundamental-Generative-AI.git)
     ```
 * Gunakan **Python 3** untuk menginstal semua *library* pendukung yang tertera di `requirements.txt`.
 * Notebook ini dapat dijalankan di berbagai platform seperti **VS Code**, **Jupyter**, maupun **Google Colab**.
