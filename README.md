@@ -36,6 +36,10 @@ Memperluas pemandangan galaksi di sekitar astronot untuk menciptakan komposisi f
 
 ## 📝 Cara Menjalankan
 
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/username/lunar-gen-ai.git](https://github.com/username/lunar-gen-ai.git)
+Clone repositori ini ke direktori lokal Anda.
+
+Gunakan Python 3 untuk menginstal semua library pendukung yang tertera di requirements.txt.
+
+Notebook ini dapat dijalankan di berbagai platform seperti VS Code, Jupyter, maupun Google Colab.
+
+Catatan: Sangat disarankan menggunakan akselerasi GPU untuk hasil proses yang lebih cepat dan lancar.
